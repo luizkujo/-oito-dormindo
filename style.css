@@ -1,4 +1,17 @@
-header {
-      background-image: ;
+.cabecalho {
+      background-image: url("download.jpeg");
+      color:  #01040956;
+      padding: 20px;
+      display: flex;
+      justify-content: right;
+      
+}
+
+.cabecalho-lista-item {
+      display: inline-block;
+      margin: 0 16px;
+      font-size: 24px ;
+     
+
 
 }
