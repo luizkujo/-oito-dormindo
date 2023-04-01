@@ -1,7 +1,15 @@
+*{
+      margin: 0%;
+     padding: 0%;
+
+}
+
+
+
 .cabecalho {
       background-image: url("download.jpeg");
       color:  #01040956;
-      padding: 20px;
+      padding: 35px;
       display: flex;
       justify-content: right;
       
@@ -10,8 +18,26 @@
 .cabecalho-lista-item {
       display: inline-block;
       margin: 0 16px;
-      font-size: 24px ;
+      font-size: 30px ;
+      font-family: 'Concert One';
+      
+     
      
 
 
 }
+ 
+   a {
+    
+       color: rgb(7, 136, 39);
+
+
+   }
+   .turma {
+           align-items: center;
+
+
+
+
+
+   }
