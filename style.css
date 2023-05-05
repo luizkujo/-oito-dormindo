@@ -42,8 +42,8 @@
 
    }
    body{
-      background-image: conic-gradient(red 45deg, yellow 90deg, green 210deg);
-  border-radius: 50%;
+      background-image: conic-gradient(rgb(61, 59, 59) 45deg, rgb(0, 139, 74) 90deg, rgb(61, 59, 59) 210deg);
+      border-radius: 50%;
       
       
 
