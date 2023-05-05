@@ -30,6 +30,6 @@ a {
            align-items: center;
    }
    body{
-      background-image: conic-gradient(rgb(54, 54, 54), rgb(14, 109, 35), rgb(54, 54, 54));
+      background-image: conic-gradient(#363636, #0e6d23, #363636);
 
    }
